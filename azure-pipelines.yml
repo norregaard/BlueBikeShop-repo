@@ -20,6 +20,6 @@ steps:
     location: 'West Europe'
     templateLocation: 'URL of the file'
     csmFileLink: 'https://raw.githubusercontent.com/norregaard/BlueBikeShop-repo/main/CreateWebApp/azuredeploy.json'
-    overrideParameters: '-projectname BlueBikeShop'
+    overrideParameters: '-projectname BlueBike'
     deploymentMode: 'Incremental'
     deploymentName: 'DeployPipelineTemplate'
